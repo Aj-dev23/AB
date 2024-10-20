@@ -1,0 +1,50 @@
+/* Algemene opmaak */
+body {
+    font-family: 'Barlow', sans-serif;
+    background: linear-gradient(135deg, #ffaad4, #ff69b4);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    overflow-x: hidden;
+}
+
+.container {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: rgba(255, 105, 180, 0.8);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+button {
+    background-color: #ff69b4;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 15px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #ff2a70;
+}
+
+.text-box {
+    font-size: 1.5rem;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    display: inline-block;
+}

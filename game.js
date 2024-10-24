@@ -14,10 +14,10 @@ let gameInterval;
 
 // Afbeeldingen laden
 const ladybugImg = new Image();
-ladybugImg.src = 'https://example.com/ladybug.png'; // Vervang door de URL van de Ladybug afbeelding
+ladybugImg.src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuperheroes.fandom.com%2Fwiki%2FLadybug&psig=AOvVaw3NK1wXTdz3hSWP5qxLg5Ba&ust=1729896926619000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJie46-OqIkDFQAAAAAdAAAAABAE'; // Vervang door de URL van de Ladybug afbeelding
 
 const catNoirImg = new Image();
-catNoirImg.src = 'https://example.com/catnoir.png'; // Vervang door de URL van de Cat Noir afbeelding
+catNoirImg.src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FTekken%2Fcomments%2F1g9rb06%2Fleo_as_cat_noir%2F&psig=AOvVaw3Es0FTKbjW0YyOXu6HFoLo&ust=1729896993774000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDbgNGOqIkDFQAAAAAdAAAAABAE'; // Vervang door de URL van de Cat Noir afbeelding
 
 // Bewegingen voor Ladybug
 document.addEventListener("keydown", (e) => {

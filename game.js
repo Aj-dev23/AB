@@ -17,7 +17,7 @@ const ladybugImg = new Image();
 ladybugImg.src = 'Stripboeken.jpg'; // Relatief pad naar de Ladybug afbeelding
 
 const catNoirImg = new Image();
-catNoirImg.src = 'cat noir.png'; // Relatief pad naar de Cat Noir afbeelding
+catNoirImg.src = 'Schermafbeelding 2024-10-25 014435.png'; // Relatief pad naar de Cat Noir afbeelding
 
 // Wacht tot beide afbeeldingen zijn geladen voordat je het spel start
 let imagesLoaded = 0;

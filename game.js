@@ -7,8 +7,8 @@ canvas.width = 800;
 canvas.height = 400;
 
 // Spelvariabelen
-let ladybug = { x: 50, y: 200, width: 50, height: 50 };
-let catNoir = { x: 800, y: Math.random() * 350, width: 50, height: 50 };
+let ladybug = { x: 50, y: 200, width: 50, height: 70 };
+let catNoir = { x: 800, y: Math.random() * 350, width: 50, height: 70 };
 let score = 0;
 let gameInterval;
 

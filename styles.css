@@ -82,7 +82,7 @@ nav ul li a:hover {
 /* Algemene body styling */
 body {
     font-family: 'Pacifico', cursive;
-    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fbarbie-background&psig=AOvVaw3rLjArW-1dceZaR6FpXK_w&ust=1729897078385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi9ufiOqIkDFQAAAAAdAAAAABAE'); /* Voeg hier een Barbie-achtergrond toe */
+    background-image: url(''); /* Voeg hier een Barbie-achtergrond toe */
     background-size: cover;
     display: flex;
     justify-content: center;
